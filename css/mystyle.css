@@ -1,0 +1,15 @@
+body {
+	background-image: url("../images/uuz.jpg");
+    background-color: #FFDAB9;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right;
+    background-size: 100% auto;
+}
+
+.font {
+	/*letter-spacing: ;    字符间距*/
+    /*word-spacing: ;	   字间距  */
+    /*line-height: ;	   设置行高*/
+    /*text-align: ; 对齐元素中的文本*/
+}
